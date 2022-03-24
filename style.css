@@ -1,0 +1,42 @@
+.heading{
+    font-size: 26px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px yellow;
+}
+.encabezadodiv{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px yellow;
+}
+.encabezadodiv2{
+    font-size: 18px;
+}
+.resultadoobjeto{
+    background-color: greenyellow;
+    box-shadow: 5px 7px 9px yellow;
+    border-bottom: 5px solid greenyellow;
+    font-size: 20px;
+}
+.resultadoobjeto span{
+    white-space: pre-line;
+}
+.derechosautor{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: left;
+    padding-left: 20px;
+}
+canvas{
+    margin-top: 350px;
+    background: url("tv.png");
+    background-size: cover;
+    padding: 16px;
+}
